@@ -7,7 +7,7 @@ One of the best ideas to start experimenting you hands-on python projects for st
 
     > cd MadLibs
 
-    > python madlibs.py
+    > python3 madlibs.py
     
 ***
     

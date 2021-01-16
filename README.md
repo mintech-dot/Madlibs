@@ -16,9 +16,9 @@ One of the best ideas to start experimenting you hands-on python projects for st
 👤 **Raid Sobhi**
 
 My nickname is MinTech
-    _Facebook: [@RaidSobhi](https://www.facebook.com/profile.php?id=100022186326165)
-    _Github: [@MinTech](https://github.com/mintech-dot)
-    _Youtube: [@MinTech](https://www.youtube.com/channel/UCB2-npj3BTBlO284SYBhpWA')
+- Facebook: [@RaidSobhi](https://www.facebook.com/profile.php?id=100022186326165)
+- Github: [@MinTech](https://github.com/mintech-dot)
+- Youtube: [@MinTech](https://www.youtube.com/channel/UCB2-npj3BTBlO284SYBhpWA')
     
 ## Show your support
 
